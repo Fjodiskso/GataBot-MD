@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
-global.owner = [
+global.owner = [+51930819713]
   ['593993684821','𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
   ['50498965677','𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
   ['50495086382'],
